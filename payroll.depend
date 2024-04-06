@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1645908748 source:c:\users\dell\onedrive\desktop\payroll project\payroll\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<iomanip>
+	<ctype.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<iomanip>
+	<ctype.h>
+
+1645908552 source:c:\users\dell\onedrive\desktop\payroll project\payroll\untitled1.cpp
+	<stdio.h>
+
